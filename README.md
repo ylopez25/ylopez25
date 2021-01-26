@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my coding skills using javascript.
+
+###🔭 I’m currently working on building my coding skills using javascript.
 - 🌱 I’m currently learning fundamentals of coding .
 - 👯 I’m looking to collaborate on building a ios app.
 - 🤔 I’m looking for help with decreasing my line of code.
