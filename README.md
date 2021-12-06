@@ -13,7 +13,7 @@
 - 💬 Ask me about Forensic Pyschology.
 - ⚡ Fun fact **I love to travel- Dream location is New Zealand**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylopez25&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylopez25&show_icons=true&theme=panda)
 
 
 <h3 align="left">Languages and Tools:</h3>
